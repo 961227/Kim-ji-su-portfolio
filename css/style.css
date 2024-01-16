@@ -956,6 +956,9 @@ ol {
   line-height: 40px;
   position: relative;
   left: 1px;
+  display: inline-block;
+  
+  
   
   
 }
